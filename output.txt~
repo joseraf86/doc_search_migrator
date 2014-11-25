@@ -1,0 +1,279 @@
+ERROR LEYENDO EL XML 260
+#<RuntimeError: Illegal character "\u001E" in raw string "Mediante la tÃ©cnica de Redes Neurales Difusas (RND) se estudiÃ³ la inferencia de laVelocidad de Onda de Cizalla (Vs) en los pozos GF-109N y GF-41N, pertenecientes alCampo Gua ta, de la subcuenca de Apure, a partir de los registros de porosidad ( Normal 0 21 false false false ES X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable {mso- style-name:&quot;Tabla normal&quot;; mso-tstyle-rowband-size:0; mso-tstyle-colband-size: 0; mso-style-noshow:yes; mso-style-priority:99; mso-style-qformat:yes; mso- style-parent:&quot;&quot;; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin-top:0cm; mso-para-margin-right:0cm; mso-para-margin-bottom:10.0pt; mso-para-margin-left: 0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font- family:&quot;Calibri&quot;,&quot;sans-serif&quot;; mso-ascii-font-family:Calibri; mso-ascii-theme- font:minor-latin; mso-fareast-font-family:&quot;Times New Roman&quot;; mso-fareast-theme- font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor- latin;} f),saturaciÃ³n de agua (Sw) y volumen de arcilla (Vsh). Estas inferencias se realizaron alentrenar con dependencia de parÃ¡metros petrofÃ­sicos de forma individual y combinada.Al comparar los resultados de Vs inferida respecto a Vs medida, se ha encontrado que,de forma individual, la informaciÃ³n arrojada por Normal 0 21 false false false ES X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable {mso- style-name:&quot;Tabla normal&quot;; mso-tstyle-rowband-size:0; mso-tstyle-colband-size: 0; mso-style-noshow:yes; mso-style-priority:99; mso-style-qformat:yes; mso- style-parent:&quot;&quot;; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin-top:0cm; mso-para-margin-right:0cm; mso-para-margin-bottom:10.0pt; mso-para-margin-left: 0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font- family:&quot;Calibri&quot;,&quot;sans-serif&quot;; mso-ascii-font-family:Calibri; mso-ascii-theme- font:minor-latin; mso-fareast-font-family:&quot;Times New Roman&quot;; mso-fareast-theme- font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor- latin;} f, Sw y Vsh, es insu ciente para darun resultado de inferencia aceptable, sin importar el nÃºmero de reglas difusas que secoloquen para el aprendizaje de la RND. Sin embargo, al combinar los parÃ¡metros Normal 0 21 false false false ES X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable {mso-style-name:&quot;Tabla normal&quot;; mso-tstyle- rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style- priority:99; mso-style-qformat:yes; mso-style-parent:&quot;&quot;; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin-top:0cm; mso-para-margin-right:0cm; mso-para- margin-bottom:10.0pt; mso-para-margin-left:0cm; line-height:115%; mso- pagination:widow-orphan; font-size:11.0pt; font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast- font-family:&quot;Times New Roman&quot;; mso-fareast-theme-font:minor-fareast; mso-hansi- font-family:Calibri; mso-hansi-theme-font:minor-latin;} f, Sw y Vsh, los resultados mejoran considerablemente, tanto al considerar el 100% delos datos del pozo GF-109N como distintos subconjutos de los mismos para realizarel entrenamiento de la RND. Los mejores resultados se obtuvieron al entrenar con el100% de los datos del pozo GF-109N y el 50% de Ã©stos tomados al azar, utilizando lostres parÃ¡metros petrofÃ­sicos ( Normal 0 21 false false false ES X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable {mso-style-name:&quot;Tabla normal&quot;; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso- style-qformat:yes; mso-style-parent:&quot;&quot;; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin-top:0cm; mso-para-margin-right:0cm; mso-para-margin-bottom: 10.0pt; mso-para-margin-left:0cm; line-height:115%; mso-pagination:widow- orphan; font-size:11.0pt; font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;; mso-ascii-font- family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font:minor-latin;} f, Sw y Vsh) simultÃ¡neamente. El conjunto de ecuacionesobtenidas de esta Ãºltima consideraciÃ³n se usÃ³ para inferir sobre los pozos GF-109N yGF-41N; sin embargo, debido a la gran diferencia en las caracterÃ­sticas petrofÃ­sicas ylitolÃ³gicas entre ambos pozos, la inferencia en el pozo GF-41N, no fue satisfactoria, locual permitiÃ³ analizar las limitaciones de los resultados.">
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:137:in `block in check'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `chars'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `each'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `check'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:119:in `initialize'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/parsers/treeparser.rb:46:in `new'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/parsers/treeparser.rb:46:in `parse'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/document.rb:231:in `build'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/document.rb:43:in `initialize'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:965:in `new'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:965:in `parse'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:164:in `xml_in'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:203:in `xml_in'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:25:in `block in migrar_TEG'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:14:in `each'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:14:in `migrar_TEG'
+(eval):1:in `<top (required)>'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands/runner.rb:53:in `eval'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands/runner.rb:53:in `<top (required)>'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands.rb:64:in `require'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands.rb:64:in `<top (required)>'
+script/rails:6:in `require'
+script/rails:6:in `<main>'
+...
+Illegal character "\u001E" in raw string "Mediante la tÃ©cnica de Redes Neurales Difusas (RND) se estudiÃ³ la inferencia de laVelocidad de Onda de Cizalla (Vs) en los pozos GF-109N y GF-41N, pertenecientes alCampo Gua ta, de la subcuenca de Apure, a partir de los registros de porosidad ( Normal 0 21 false false false ES X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable {mso- style-name:&quot;Tabla normal&quot;; mso-tstyle-rowband-size:0; mso-tstyle-colband-size: 0; mso-style-noshow:yes; mso-style-priority:99; mso-style-qformat:yes; mso- style-parent:&quot;&quot;; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin-top:0cm; mso-para-margin-right:0cm; mso-para-margin-bottom:10.0pt; mso-para-margin-left: 0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font- family:&quot;Calibri&quot;,&quot;sans-serif&quot;; mso-ascii-font-family:Calibri; mso-ascii-theme- font:minor-latin; mso-fareast-font-family:&quot;Times New Roman&quot;; mso-fareast-theme- font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor- latin;} f),saturaciÃ³n de agua (Sw) y volumen de arcilla (Vsh). Estas inferencias se realizaron alentrenar con dependencia de parÃ¡metros petrofÃ­sicos de forma individual y combinada.Al comparar los resultados de Vs inferida respecto a Vs medida, se ha encontrado que,de forma individual, la informaciÃ³n arrojada por Normal 0 21 false false false ES X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable {mso- style-name:&quot;Tabla normal&quot;; mso-tstyle-rowband-size:0; mso-tstyle-colband-size: 0; mso-style-noshow:yes; mso-style-priority:99; mso-style-qformat:yes; mso- style-parent:&quot;&quot;; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin-top:0cm; mso-para-margin-right:0cm; mso-para-margin-bottom:10.0pt; mso-para-margin-left: 0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font- family:&quot;Calibri&quot;,&quot;sans-serif&quot;; mso-ascii-font-family:Calibri; mso-ascii-theme- font:minor-latin; mso-fareast-font-family:&quot;Times New Roman&quot;; mso-fareast-theme- font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor- latin;} f, Sw y Vsh, es insu ciente para darun resultado de inferencia aceptable, sin importar el nÃºmero de reglas difusas que secoloquen para el aprendizaje de la RND. Sin embargo, al combinar los parÃ¡metros Normal 0 21 false false false ES X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable {mso-style-name:&quot;Tabla normal&quot;; mso-tstyle- rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style- priority:99; mso-style-qformat:yes; mso-style-parent:&quot;&quot;; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin-top:0cm; mso-para-margin-right:0cm; mso-para- margin-bottom:10.0pt; mso-para-margin-left:0cm; line-height:115%; mso- pagination:widow-orphan; font-size:11.0pt; font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast- font-family:&quot;Times New Roman&quot;; mso-fareast-theme-font:minor-fareast; mso-hansi- font-family:Calibri; mso-hansi-theme-font:minor-latin;} f, Sw y Vsh, los resultados mejoran considerablemente, tanto al considerar el 100% delos datos del pozo GF-109N como distintos subconjutos de los mismos para realizarel entrenamiento de la RND. Los mejores resultados se obtuvieron al entrenar con el100% de los datos del pozo GF-109N y el 50% de Ã©stos tomados al azar, utilizando lostres parÃ¡metros petrofÃ­sicos ( Normal 0 21 false false false ES X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable {mso-style-name:&quot;Tabla normal&quot;; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso- style-qformat:yes; mso-style-parent:&quot;&quot;; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin-top:0cm; mso-para-margin-right:0cm; mso-para-margin-bottom: 10.0pt; mso-para-margin-left:0cm; line-height:115%; mso-pagination:widow- orphan; font-size:11.0pt; font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;; mso-ascii-font- family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font:minor-latin;} f, Sw y Vsh) simultÃ¡neamente. El conjunto de ecuacionesobtenidas de esta Ãºltima consideraciÃ³n se usÃ³ para inferir sobre los pozos GF-109N yGF-41N; sin embargo, debido a la gran diferencia en las caracterÃ­sticas petrofÃ­sicas ylitolÃ³gicas entre ambos pozos, la inferencia en el pozo GF-41N, no fue satisfactoria, locual permitiÃ³ analizar las limitaciones de los resultados."
+Line: 1
+Position: 109083
+Last 80 unconsumed characters:
+</resumen>
+ERROR LEYENDO EL XML 472
+#<RuntimeError: Illegal character "\u0013" in raw string "Equilibrios en soluciÃƒÂ³n, complejos de vanadio (v), ÃƒÂ¡cidos aminopolicarboxÃƒÂ­licos, acido trans-1,2-diaminociclohexano-N,N,N,N- tetraacetico (CDTA), constantes de estabilidad">
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:137:in `block in check'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `chars'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `each'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `check'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:119:in `initialize'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/parsers/treeparser.rb:46:in `new'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/parsers/treeparser.rb:46:in `parse'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/document.rb:231:in `build'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/document.rb:43:in `initialize'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:965:in `new'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:965:in `parse'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:164:in `xml_in'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:203:in `xml_in'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:25:in `block in migrar_TEG'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:14:in `each'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:14:in `migrar_TEG'
+(eval):1:in `<top (required)>'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands/runner.rb:53:in `eval'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands/runner.rb:53:in `<top (required)>'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands.rb:64:in `require'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands.rb:64:in `<top (required)>'
+script/rails:6:in `require'
+script/rails:6:in `<main>'
+...
+Illegal character "\u0013" in raw string "Equilibrios en soluciÃƒÂ³n, complejos de vanadio (v), ÃƒÂ¡cidos aminopolicarboxÃƒÂ­licos, acido trans-1,2-diaminociclohexano-N,N,N,N- tetraacetico (CDTA), constantes de estabilidad"
+Line: 1
+Position: 18834
+Last 80 unconsumed characters:
+</palabras_clave>
+ERROR LEYENDO EL XML 538
+#<RuntimeError: Illegal character "\u0013" in raw string "Las RÃ¡fagas de Rayos Gamma son eventos portentosos, que desde su descubrimiento en la dÃ©cada de los 60, no han dejado de plantear interrogantes a los cientÃ­ficos. Aun hoy en dÃ­a quedan muchas dudas por resolver acerca de este fenÃ³meno. La mayorÃ­a de los aportes acerca de estos eventos han sido realizados por los satÃ©lites, sin embargo estos presentan limitaciones a la hora de detectar RÃ¡fagas de Rayos Gamma de muy alta energÃ­a, ademÃ¡s del alto costo que estos representan. Es por ello que se han venido desarrollando experimentos a nivel del suelo, como es el caso de Observatorio Pierre Auger, el cual consta de un arreglo de Detectores Cherenkov de Agua que proporcionan una vasta superficie de detecciÃ³n, sin embargo, su baja altitud limita la eficiencia de dicho observatorio.Para eliminar dichas limitaciones el Observatorio Pierre Auger ha creado un experimento de colaboraciÃ³n internacional llamado proyecto LAGO, cuyo objetivo es la detecciÃ³n de RÃ¡fagas de Rayos Gamma mediante la tÃ©cnica de la partÃ­cula individual con el uso de Detectores Cherenkov de Aguaen sitios relativamente altos. Este trabajo especial de grado se desarrolla en el marco del proyectoLAGO, y el mismo procura la instalacion de un Detector Cherenkov de Agua prototipo ubicado en laUniversidad Simon Bolvar, as como la calibracion del mismo mediante la tecnica del Muon VerticalEquivalente.i">
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:137:in `block in check'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `chars'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `each'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `check'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:119:in `initialize'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/parsers/treeparser.rb:46:in `new'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/parsers/treeparser.rb:46:in `parse'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/document.rb:231:in `build'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/document.rb:43:in `initialize'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:965:in `new'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:965:in `parse'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:164:in `xml_in'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:203:in `xml_in'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:25:in `block in migrar_TEG'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:14:in `each'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:14:in `migrar_TEG'
+(eval):1:in `<top (required)>'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands/runner.rb:53:in `eval'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands/runner.rb:53:in `<top (required)>'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands.rb:64:in `require'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands.rb:64:in `<top (required)>'
+script/rails:6:in `require'
+script/rails:6:in `<main>'
+...
+Illegal character "\u0013" in raw string "Las RÃ¡fagas de Rayos Gamma son eventos portentosos, que desde su descubrimiento en la dÃ©cada de los 60, no han dejado de plantear interrogantes a los cientÃ­ficos. Aun hoy en dÃ­a quedan muchas dudas por resolver acerca de este fenÃ³meno. La mayorÃ­a de los aportes acerca de estos eventos han sido realizados por los satÃ©lites, sin embargo estos presentan limitaciones a la hora de detectar RÃ¡fagas de Rayos Gamma de muy alta energÃ­a, ademÃ¡s del alto costo que estos representan. Es por ello que se han venido desarrollando experimentos a nivel del suelo, como es el caso de Observatorio Pierre Auger, el cual consta de un arreglo de Detectores Cherenkov de Agua que proporcionan una vasta superficie de detecciÃ³n, sin embargo, su baja altitud limita la eficiencia de dicho observatorio.Para eliminar dichas limitaciones el Observatorio Pierre Auger ha creado un experimento de colaboraciÃ³n internacional llamado proyecto LAGO, cuyo objetivo es la detecciÃ³n de RÃ¡fagas de Rayos Gamma mediante la tÃ©cnica de la partÃ­cula individual con el uso de Detectores Cherenkov de Aguaen sitios relativamente altos. Este trabajo especial de grado se desarrolla en el marco del proyectoLAGO, y el mismo procura la instalacion de un Detector Cherenkov de Agua prototipo ubicado en laUniversidad Simon Bolvar, as como la calibracion del mismo mediante la tecnica del Muon VerticalEquivalente.i"
+Line: 1
+Position: 82905
+Last 80 unconsumed characters:
+</resumen>
+ERROR LEYENDO EL XML 552
+#<RuntimeError: Illegal character "\u001C" in raw string "En la actualidad existen diversas interfaces que facilitan el uso del computador, entre ellas se encuentran las pizarras interactivas, las cuales son de gran utilidad en ambientes educativos y de conferencias. A pesar de que existe una gran variedad en el mercado, el uso de Ã©stas no se ha masicado debido a su alto costo. Es por ello que en este Trabajo Especial de Grado se presenta un sistema enfocado en ofrecer las caracterÃ­sticas de una pizarra interactiva utilizando webcams, materiales de bajo costo y los conocimientos que ofrece el Ã¡rea de visiÃ³n por computador. El sistema desarrollado captura las imÃ¡genes, les aplica el procesamiento necesario y finalmente realiza la acciÃ³n correspondiente en el computador.">
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:137:in `block in check'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `chars'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `each'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `check'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:119:in `initialize'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/parsers/treeparser.rb:46:in `new'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/parsers/treeparser.rb:46:in `parse'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/document.rb:231:in `build'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/document.rb:43:in `initialize'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:965:in `new'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:965:in `parse'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:164:in `xml_in'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:203:in `xml_in'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:25:in `block in migrar_TEG'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:14:in `each'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:14:in `migrar_TEG'
+(eval):1:in `<top (required)>'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands/runner.rb:53:in `eval'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands/runner.rb:53:in `<top (required)>'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands.rb:64:in `require'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands.rb:64:in `<top (required)>'
+script/rails:6:in `require'
+script/rails:6:in `<main>'
+...
+Illegal character "\u001C" in raw string "En la actualidad existen diversas interfaces que facilitan el uso del computador, entre ellas se encuentran las pizarras interactivas, las cuales son de gran utilidad en ambientes educativos y de conferencias. A pesar de que existe una gran variedad en el mercado, el uso de Ã©stas no se ha masicado debido a su alto costo. Es por ello que en este Trabajo Especial de Grado se presenta un sistema enfocado en ofrecer las caracterÃ­sticas de una pizarra interactiva utilizando webcams, materiales de bajo costo y los conocimientos que ofrece el Ã¡rea de visiÃ³n por computador. El sistema desarrollado captura las imÃ¡genes, les aplica el procesamiento necesario y finalmente realiza la acciÃ³n correspondiente en el computador."
+Line: 1
+Position: 3125
+Last 80 unconsumed characters:
+</resumen>
+ERROR LEYENDO EL XML 555
+#<RuntimeError: Illegal character "\u001C" in raw string "En la actualidad existen diversas interfaces que facilitan el uso del computador, entre ellas se encuentran las pizarras interactivas, las cuales son de gran utilidad en ambientes educativos y de conferencias. A pesar de que existe una gran variedad en el mercado, el uso de Ã©stas no se ha masicado debido a su alto costo. Es por ello que en este Trabajo Especial de Grado se presenta un sistema enfocado en ofrecer las caracterÃ­sticas de una pizarra interactiva utilizando webcams, materiales de bajo costo y los conocimientos que ofrece el Ã¡rea de visiÃ³n por computador. El sistema desarrollado captura las imÃ¡genes, les aplica el procesamiento necesario y nalmente realiza la acciÃ³n correspondiente en el computador.">
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:137:in `block in check'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `chars'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `each'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `check'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:119:in `initialize'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/parsers/treeparser.rb:46:in `new'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/parsers/treeparser.rb:46:in `parse'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/document.rb:231:in `build'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/document.rb:43:in `initialize'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:965:in `new'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:965:in `parse'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:164:in `xml_in'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:203:in `xml_in'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:25:in `block in migrar_TEG'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:14:in `each'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:14:in `migrar_TEG'
+(eval):1:in `<top (required)>'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands/runner.rb:53:in `eval'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands/runner.rb:53:in `<top (required)>'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands.rb:64:in `require'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands.rb:64:in `<top (required)>'
+script/rails:6:in `require'
+script/rails:6:in `<main>'
+...
+Illegal character "\u001C" in raw string "En la actualidad existen diversas interfaces que facilitan el uso del computador, entre ellas se encuentran las pizarras interactivas, las cuales son de gran utilidad en ambientes educativos y de conferencias. A pesar de que existe una gran variedad en el mercado, el uso de Ã©stas no se ha masicado debido a su alto costo. Es por ello que en este Trabajo Especial de Grado se presenta un sistema enfocado en ofrecer las caracterÃ­sticas de una pizarra interactiva utilizando webcams, materiales de bajo costo y los conocimientos que ofrece el Ã¡rea de visiÃ³n por computador. El sistema desarrollado captura las imÃ¡genes, les aplica el procesamiento necesario y nalmente realiza la acciÃ³n correspondiente en el computador."
+Line: 1
+Position: 2702
+Last 80 unconsumed characters:
+</resumen>
+ERROR LEYENDO EL XML 558
+#<RuntimeError: Illegal character "\u001C" in raw string "En la actualidad existen diversas interfaces que facilitan el uso del computador, entre ellas se encuentran las pizarras interactivas, las cuales son de gran utilidad en ambientes educativos y de conferencias. A pesar de que existe una gran variedad en el mercado, eluso de Ã©stas no se ha masificado debido a su alto costo. Es por ello que en este Trabajo Especial de Grado se presenta un sistema enfocado en ofrecer las caracterÃ­sticas de una pizarra interactiva utilizando webcams, materiales de bajo costo y los conocimientos que ofrece el Ã¡rea de visiÃ³n por computador. El sistema desarrollado captura las imÃ¡genes, les aplica el procesamiento necesario y finalmente realiza la acciÃ³n correspondiente en el computador.">
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:137:in `block in check'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `chars'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `each'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `check'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:119:in `initialize'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/parsers/treeparser.rb:46:in `new'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/parsers/treeparser.rb:46:in `parse'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/document.rb:231:in `build'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/document.rb:43:in `initialize'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:965:in `new'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:965:in `parse'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:164:in `xml_in'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:203:in `xml_in'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:25:in `block in migrar_TEG'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:14:in `each'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:14:in `migrar_TEG'
+(eval):1:in `<top (required)>'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands/runner.rb:53:in `eval'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands/runner.rb:53:in `<top (required)>'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands.rb:64:in `require'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands.rb:64:in `<top (required)>'
+script/rails:6:in `require'
+script/rails:6:in `<main>'
+...
+Illegal character "\u001C" in raw string "En la actualidad existen diversas interfaces que facilitan el uso del computador, entre ellas se encuentran las pizarras interactivas, las cuales son de gran utilidad en ambientes educativos y de conferencias. A pesar de que existe una gran variedad en el mercado, eluso de Ã©stas no se ha masificado debido a su alto costo. Es por ello que en este Trabajo Especial de Grado se presenta un sistema enfocado en ofrecer las caracterÃ­sticas de una pizarra interactiva utilizando webcams, materiales de bajo costo y los conocimientos que ofrece el Ã¡rea de visiÃ³n por computador. El sistema desarrollado captura las imÃ¡genes, les aplica el procesamiento necesario y finalmente realiza la acciÃ³n correspondiente en el computador."
+Line: 1
+Position: 2752
+Last 80 unconsumed characters:
+</resumen>
+ERROR LEYENDO EL XML 658
+#<RuntimeError: Illegal character "\u0013" in raw string "En este trabajo se sintetizÃ³ SBA-15 mediante el mÃ©todo sol-gel. Se utilizaron temperaturas de tratamiento hidrotermal de 35 ÂºC, 65 ÂºC y 100ÂºC. Para la SBA- 15/100 se utilizaron dos mÃ©etodos de secado: convencional por evaporaciÃ³n y lio lizaciÃ³n. A partir de las muestras obtenidas se elaboraron compuestos del tipo MO.Fe2O3/SBA-15, para lo cual se introdujo la SBA-15 en el proceso de sÃ­ntesis del Ã³xido MO. Fe2O3 en condiciones de atmosfera inerte.La caracterizaciÃ³n de la estructura porosa de los sÃ³lidos se realizÃ³ por el mÃ©todo Brunauer, Emmet y Teller (BET), a partir de las isotermas de N2 a 77 K. La muestra SBA-15 sintetizada a 100 ÂºC presentÃ³ el ciclo de condensaciÃ³n mÃ¡s marcado, la mayorÃ¡rea super cial y la presencia de microporosidad. Las muestras SBA-15 sintetizadas a65 ÂºC y 35 ÂºC, mostraron la ausencia de microporosidad, un aspecto fundamental que caracteriza a la SBA-15. La muestra SBA-15 lio lizada resultÃ³ con un Ã¡rea super cial y volumen de poros menor a la secada en estufa.Los estudios de difracciÃ³n de rayos X a bajo Ã¡ngulo indicaron la formaciÃ³n de la SBA-15, con ligeras diferencias estructurales entre las muestras evaporada y lio lizada.La caracterizaciÃ³n del Ã³xido de hierro elaborado previamente a la sÃ­ntesis de los compuestos MO.Fe2O3/SBA-15 indica que el mÃ©todo usado permitiÃ³ obtener ferrita de hierro nanomÃ©trica con un tamaÃ±o de partÃ­cula menor a 20 nm. Sin embargo no selogrÃ³ identi car la fase ferrita en los compuestos a travÃ©s de las tÃ©cnicas de caracterizaciÃ³n empleadas. El anÃ¡lisis magnÃ©tico por magnetometrÃ­a de muestra vibrante, dio como resultado un comportamiento superparamagnÃ©tico para la ferrita y en los compuestosMO.Fe2O3/SBA-15 se veri ficÃ³ un comportamiento de tipo paramagnÃ©tico.">
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:137:in `block in check'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `chars'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `each'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `check'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:119:in `initialize'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/parsers/treeparser.rb:46:in `new'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/parsers/treeparser.rb:46:in `parse'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/document.rb:231:in `build'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/document.rb:43:in `initialize'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:965:in `new'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:965:in `parse'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:164:in `xml_in'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:203:in `xml_in'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:25:in `block in migrar_TEG'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:14:in `each'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:14:in `migrar_TEG'
+(eval):1:in `<top (required)>'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands/runner.rb:53:in `eval'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands/runner.rb:53:in `<top (required)>'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands.rb:64:in `require'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands.rb:64:in `<top (required)>'
+script/rails:6:in `require'
+script/rails:6:in `<main>'
+...
+Illegal character "\u0013" in raw string "En este trabajo se sintetizÃ³ SBA-15 mediante el mÃ©todo sol-gel. Se utilizaron temperaturas de tratamiento hidrotermal de 35 ÂºC, 65 ÂºC y 100ÂºC. Para la SBA- 15/100 se utilizaron dos mÃ©etodos de secado: convencional por evaporaciÃ³n y lio lizaciÃ³n. A partir de las muestras obtenidas se elaboraron compuestos del tipo MO.Fe2O3/SBA-15, para lo cual se introdujo la SBA-15 en el proceso de sÃ­ntesis del Ã³xido MO. Fe2O3 en condiciones de atmosfera inerte.La caracterizaciÃ³n de la estructura porosa de los sÃ³lidos se realizÃ³ por el mÃ©todo Brunauer, Emmet y Teller (BET), a partir de las isotermas de N2 a 77 K. La muestra SBA-15 sintetizada a 100 ÂºC presentÃ³ el ciclo de condensaciÃ³n mÃ¡s marcado, la mayorÃ¡rea super cial y la presencia de microporosidad. Las muestras SBA-15 sintetizadas a65 ÂºC y 35 ÂºC, mostraron la ausencia de microporosidad, un aspecto fundamental que caracteriza a la SBA-15. La muestra SBA-15 lio lizada resultÃ³ con un Ã¡rea super cial y volumen de poros menor a la secada en estufa.Los estudios de difracciÃ³n de rayos X a bajo Ã¡ngulo indicaron la formaciÃ³n de la SBA-15, con ligeras diferencias estructurales entre las muestras evaporada y lio lizada.La caracterizaciÃ³n del Ã³xido de hierro elaborado previamente a la sÃ­ntesis de los compuestos MO.Fe2O3/SBA-15 indica que el mÃ©todo usado permitiÃ³ obtener ferrita de hierro nanomÃ©trica con un tamaÃ±o de partÃ­cula menor a 20 nm. Sin embargo no selogrÃ³ identi car la fase ferrita en los compuestos a travÃ©s de las tÃ©cnicas de caracterizaciÃ³n empleadas. El anÃ¡lisis magnÃ©tico por magnetometrÃ­a de muestra vibrante, dio como resultado un comportamiento superparamagnÃ©tico para la ferrita y en los compuestosMO.Fe2O3/SBA-15 se veri ficÃ³ un comportamiento de tipo paramagnÃ©tico."
+Line: 1
+Position: 5322
+Last 80 unconsumed characters:
+</resumen>
+ERROR LEYENDO EL XML 740
+#<RuntimeError: Illegal character "\u001C" in raw string "La segmentaciÃ³n de imÃ¡genes es un campo de amplio estudio dentro de la computaciÃ³n grÃ¡ca. El objetivo principal es obtener una regiÃ³n de interÃ©s dentro de un espacio mÃ¡s amplio. Una de las tÃ©cnicas de segmentaciÃ³n de imÃ¡genes 2D creadas recientemente que obtiene excelentes resultados es llamada GrabCut. GrabCut es una tÃ©cnica basada en el algoritmo de GraphCut donde la imagen es representada como un grafode ujo, donde el objetivo es encontrar el corte mÃ­nimo del grafo para separar la imagen en fondo (background) y regiÃ³n a segmentar (foreground). En este trabajo se implementa la tÃ©cnica de GrabCut para segmentar volÃºmenes bajo un esquema de algoritmo paralelo. La implementaciÃ³n utiliza estructuras de datos y algoritmos paralelos que son ejecutados en el GPU para mejorar los tiempos de respuestas. En la literatura, no se encontraron implementaciones previas de GrabCut en el GPU para volÃºmenes. Las pruebas demuestran excelentes resultados del algoritmo con los volÃºmenes de prueba empleados.">
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:137:in `block in check'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `chars'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `each'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `check'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:119:in `initialize'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/parsers/treeparser.rb:46:in `new'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/parsers/treeparser.rb:46:in `parse'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/document.rb:231:in `build'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/document.rb:43:in `initialize'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:965:in `new'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:965:in `parse'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:164:in `xml_in'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:203:in `xml_in'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:25:in `block in migrar_TEG'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:14:in `each'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:14:in `migrar_TEG'
+(eval):1:in `<top (required)>'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands/runner.rb:53:in `eval'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands/runner.rb:53:in `<top (required)>'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands.rb:64:in `require'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands.rb:64:in `<top (required)>'
+script/rails:6:in `require'
+script/rails:6:in `<main>'
+...
+Illegal character "\u001C" in raw string "La segmentaciÃ³n de imÃ¡genes es un campo de amplio estudio dentro de la computaciÃ³n grÃ¡ca. El objetivo principal es obtener una regiÃ³n de interÃ©s dentro de un espacio mÃ¡s amplio. Una de las tÃ©cnicas de segmentaciÃ³n de imÃ¡genes 2D creadas recientemente que obtiene excelentes resultados es llamada GrabCut. GrabCut es una tÃ©cnica basada en el algoritmo de GraphCut donde la imagen es representada como un grafode ujo, donde el objetivo es encontrar el corte mÃ­nimo del grafo para separar la imagen en fondo (background) y regiÃ³n a segmentar (foreground). En este trabajo se implementa la tÃ©cnica de GrabCut para segmentar volÃºmenes bajo un esquema de algoritmo paralelo. La implementaciÃ³n utiliza estructuras de datos y algoritmos paralelos que son ejecutados en el GPU para mejorar los tiempos de respuestas. En la literatura, no se encontraron implementaciones previas de GrabCut en el GPU para volÃºmenes. Las pruebas demuestran excelentes resultados del algoritmo con los volÃºmenes de prueba empleados."
+Line: 1
+Position: 3491
+Last 80 unconsumed characters:
+</resumen>
+ERROR LEYENDO EL XML 759
+#<RuntimeError: Illegal character "\u0013" in raw string "Aplicacion del CÃ¡lculo EstocÃ¡stico en el revelado de los puntos especulares de la super cie del mar">
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:137:in `block in check'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `chars'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `each'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:133:in `check'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/text.rb:119:in `initialize'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/parsers/treeparser.rb:46:in `new'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/parsers/treeparser.rb:46:in `parse'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/document.rb:231:in `build'
+/home/jose/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/rexml/document.rb:43:in `initialize'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:965:in `new'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:965:in `parse'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:164:in `xml_in'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/xml-simple-1.1.2/lib/xmlsimple.rb:203:in `xml_in'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:25:in `block in migrar_TEG'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:14:in `each'
+/home/jose/migracion_conest/migrador/app/models/extractor.rb:14:in `migrar_TEG'
+(eval):1:in `<top (required)>'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands/runner.rb:53:in `eval'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands/runner.rb:53:in `<top (required)>'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands.rb:64:in `require'
+/home/jose/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.13/lib/rails/commands.rb:64:in `<top (required)>'
+script/rails:6:in `require'
+script/rails:6:in `<main>'
+...
+Illegal character "\u0013" in raw string "Aplicacion del CÃ¡lculo EstocÃ¡stico en el revelado de los puntos especulares de la super cie del mar"
+Line: 1
+Position: 4381
+Last 80 unconsumed characters:
+</titulo>

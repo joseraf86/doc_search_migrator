@@ -1,0 +1,26 @@
+COMPONENTES
+
+BUSCONEST
+Servidor
+-pdf-reader    (extractor de texto en PDF)
+-Paperclip     (manejador de archivos)
+-Devise        (autenticacion)
+-will_paginate (paginacion)
+
+
+Cliente
+-JQuery       (requerido por Bootstrap y TinyMCE)
+-Bootstrap    (ventana modal/typeahead/diagramado)
+-TinyMCE      (titulos de documentos formateados en html)
+-Progress Bar (barra de progreso 100% html5)
+
+BUSCONEST-DUMMY
+Cliente
+-JQuery       (requerido por Bootstrap y TinyMCE)
+-Bootstrap    (typeahead)
+-TinyMCE      (titulos de documentos formateados en html)
+-Progress Bar (barra de progreso 100% html5)
+
+MIGRADOR
+Servidor
+-Nokogiri (parser XML)

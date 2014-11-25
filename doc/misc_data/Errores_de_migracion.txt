@@ -1,0 +1,7 @@
+En la migracion:
+
+1) Faltó crear titulo_texto_plano y resumen_texto plano
+2) Hay bastantes tesis con título {} ( resolver como resolviste con los resumen {})
+3) Hay bastantes archivos PDF con 0 bytes
+
+4) Los acentos en la BD original estaban almacenados incorrectamente

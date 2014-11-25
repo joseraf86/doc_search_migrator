@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<documento>
+  <fecha_publicacion>03-11-0008</fecha_publicacion>
+  <calificacion>20</calificacion>
+  <tiene_premio>no</tiene_premio>
+  <mencion/>
+  <licenciatura_id>C</licenciatura_id>
+  <licenciatura>COMPUTACION</licenciatura>
+  <escuela>COMPUTACION</escuela>
+  <facultad>CIENCIAS</facultad>
+  <universidad>UNIVERSIDAD CENTRAL DE VENEZUELA - LOS CHAGUARAMOS</universidad>
+
+  <autor>
+    <nombre>FLORES GARCÃA DIEGO  </nombre>
+    <cedula>14200556</cedula>
+    <correo>diegolaz@gmail.com</correo>
+    <telefonos>0212-2865401, </telefonos>
+    <promedio_general>11.2978723404255</promedio_general>
+    <promedio_ponderado>11.2788844621514</promedio_ponderado>
+    <eficiencia>0.741312741312741</eficiencia>
+  </autor>
+
+  <tutor>RIVAS SERGIO JOSÃ‰ y ZAMBRANO JOSSIE</tutor>
+
+  <titulo>DESARROLLO DE UNA APLICACIÃ“N WEB QUE PERMITE DETECTAR SIMILITUDES ENTRE DOCUMENTOS DIGITALES.</titulo>
+  <nombre_archivo>archivo.pdf</nombre_archivo>
+  <extension_formato_archivo>pdf</extension_formato_archivo>
+  <titulo_html><![CDATA[DESARROLLO DE UNA APLICACI&Oacute;N WEB QUE PERMITE DETECTAR SIMILITUDES ENTRE DOCUMENTOS DIGITALES.]]></titulo_html>
+  <resumen_html><![CDATA[&nbsp; \t \t \t]]></resumen_html>
+  <resumen/>
+  <palabras_clave>Similitud, originalidad, copia, plagio, comparaciÃ³n, semejanza, cotejo, documentos, tÃ©cnica Check.</palabras_clave>
+  <publico>1</publico>
+  <texto>universidad central de venezuela facultad de ciencias escuel a de computacion desarrollo de una aplicacion web que permite detectar similitudes entre documentos digitales trabajo especial de grado presentado ante la ilustre universidad central de venezuela por los bachilleres  
+  </texto>
+
+  <autor>
+    <nombre>KLOPP NOWACKA ANJA  CRISTINA</nombre>
+    <cedula>15665008</cedula>
+    <correo>anjaklopp@gmail.com</correo>
+    <telefonos>0212-9864807, 0412-2356890</telefonos>
+    <promedio_general>12.175</promedio_general>
+    <promedio_ponderado>12.4734299516908</promedio_ponderado>
+    <eficiencia>0.897674418604651</eficiencia>
+  </autor>
+</documento>

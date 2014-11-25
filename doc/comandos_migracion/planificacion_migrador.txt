@@ -1,0 +1,82 @@
+XML PARSER: gem xml-simple
+Crear mini aplicacion en Rails: Migrador
+
+tabla documento
+| id                       automatico
+| titulo                   XML
+| resumen                  XML
+| fecha_publicacion        XML
+| palabras_clave           XML
+| escuela_id               XML
+| tipo_documento_id        cableado 1 #TEG
+| estado_documento_id      PROCESO DE INDEXADO (NUEVO)
+| idioma_id                cableado 1 #ESPAÑOL
+| visibilidad_id           XML
+| created_at               automatico
+| updated_at               automatico
+| publicacion_file_name    PROCESO DE CARGA DE DOCUMENTO
+| publicacion_content_type PROCESO DE CARGA DE DOCUMENTO
+| publicacion_file_size    PROCESO DE CARGA DE DOCUMENTO
+| publicacion_updated_at   PROCESO DE CARGA DE DOCUMENTO
+| calificacion             XML
+| descargas                cableado 0
+| paginas                  PROCESO DE CARGA DE DOCUMENTO
+| estado                   PROCESO DE CARGA DE DOCUMENTO (INCOMPLETO)
+
+table contenido
+| id           automatico
+| texto        PROCESO DE CARGA DE DOCUMENTO
+| documento_id PROCESO DE CARGA DE DOCUMENTO
+| created_at   automatico
+| updated_at   automatico
+
+
+Hay tres casos distintos, estudiantes(autores), tutores, jurados 
+tabla persona
+| id              automatico
+| cedula          XML autores - CONEST tutores y jurados
+| nombres         BUSCAR CONEST asociar por la cedula del estudiante y buscar en planilla_individual
+| apellidos       BUSCAR CONEST asociar por la cedula del estudiante y buscar en planilla_individual
+| nombre_completo CONCAT(nombres, apellidos, ' ')
+| email           XML autores - CONEST tutores y jurados
+| created_at      automatico
+| updated_at      automatico
+
+table estudiante
+| id                 automatico
+| promedio_general   XML
+| promedio_ponderado XML
+| eficiencia         XML
+| escuela_id         XML
+| grado_id           cableado 1 #PREGRADO
+| persona_id         ASOCIAR DESPUES DE CREAR LA PERSONA
+| mencion_id         BUSCAR CONEST
+| premio_id          BUSCAR CONEST (suma/magna cum laude, premio especial de graduacion, alto rendimiento academico)
+| created_at         automatico
+| updated_at         automatico
+
+table autor
+| id           automatico
+| persona_id   XML con la cedula
+| documento_id XML con la cedula
+| created_at   automatico
+| updated_at   automatico
+
+table tutor
+| id           automatico
+| persona_id   ASOCIAR BUSCANDO LA PERSONA POR cedula
+| documento_id ASOCIAR DESPUES DE CREAR EL DOCUMENTO
+| created_at   automatico
+| updated_at   automatico
+
+table jurado
+| id           automatico
+| persona_id   ASOCIAR BUSCANDO LA PERSONA POR cedula
+| documento_id ASOCIAR DESPUES DE CREAR EL DOCUMENTO
+| created_at   automatico
+| updated_at   automatico
+
+table documento_reconocimiento (mencion honorifica)
+| documento_id      ASOCIAR DESPUES DE CREAR EL DOCUMENTO
+| reconocimiento_id BUSCAR EN CONEST
+

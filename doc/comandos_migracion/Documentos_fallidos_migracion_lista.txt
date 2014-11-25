@@ -1,0 +1,11 @@
+Documentos fallidos
+RuntimeError: Illegal character "\u00XX" in raw string 
+260
+472
+538
+552
+555
+558
+658
+740
+759

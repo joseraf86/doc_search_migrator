@@ -1,0 +1,19 @@
+COMPONENTES
+
+Servidor
+
+-pdf-reader
+-Paperclip
+-Devise
+-will_paginate
+
+
+Cliente
+
+-JQuery
+-Bootstrap (ventana modal/typeahead)
+-TinyMCE (titulos de documentos formateados con html)
+-Progress Bar (pure html5)
+
+Migrador
+Nokogiri (parser XML)

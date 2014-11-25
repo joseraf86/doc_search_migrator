@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<documento>
+  <fecha_publicacion>17-09-0008</fecha_publicacion>
+  <calificacion>20</calificacion>
+  <tiene_premio>no</tiene_premio>
+  <mencion/>
+  <licenciatura_id>G</licenciatura_id>
+  <licenciatura>GEOQUIMICA</licenciatura>
+  <escuela>QUIMICA</escuela>
+  <facultad>CIENCIAS</facultad>
+  <universidad>UNIVERSIDAD CENTRAL DE VENEZUELA - LOS CHAGUARAMOS</universidad>
+
+  <autor>
+    <nombre>GARCÃA LÃ“PEZ MARÃA  GABRIELA</nombre>
+    <cedula>17643788</cedula>
+    <correo>maga1260@hotmail.com</correo>
+    <telefonos>0212-6935981, 0412-3859164</telefonos>
+    <promedio_general>18.2619047619048</promedio_general>
+    <promedio_ponderado>18.3645833333333</promedio_ponderado>
+    <eficiencia>1.0</eficiencia>
+  </autor>
+
+  <tutor>LÃ“PEZ LILIANA y CARMEN  INFANTE</tutor>
+
+  <titulo>ESTUDIO DE LA BIODEGRADACIÃ“N DEL CRUDO GUAFITA 1X EN DOS SUELOS DE DIFERENTE TEXTURA Y COMPOSICIÃ“N MINERALÃ“GICA</titulo>
+  <nombre_archivo>archivo.pdf</nombre_archivo>
+  <extension_formato_archivo>pdf</extension_formato_archivo>
+  <titulo_html><![CDATA[ESTUDIO DE LA BIODEGRADACI&Oacute;N DEL CRUDO GUAFITA 1X EN DOS SUELOS DE DIFERENTE TEXTURA Y COMPOSICI&Oacute;N MINERAL&Oacute;GICA]]></titulo_html>
+  <resumen_html><![CDATA[Se estudi&oacute; la biodegradaci&oacute;n de un crudo liviano, durante 90 d&iacute;as, en dos suelos de diferente textura y composici&oacute;n mineral&oacute;gica. El proceso se evalu&oacute; en base a: la disminuci&oacute;n de la cantidad de crudo extra&iacute;do en intervalos]]></resumen_html>
+  <resumen>Se estudiÃ³ la biodegradaciÃ³n de un crudo liviano, durante 90 dÃ­as, en dos suelos de diferente textura y composiciÃ³n mineralÃ³gica. El proceso se evaluÃ³ en base a: la disminuciÃ³n de la cantidad de crudo extraÃ­do en intervalos de tiempo establecidos, los cambios 
+  </resumen>
+  <palabras_clave>Suelo</palabras_clave>
+  <publico>1</publico>
+  <texto>universidad central de venezuela facultad de ciencias escuela de quimica departamento de geoquimica #estudio de la biodegradacion del crudo guafita #x en dos suelos de diferente textura y composicion mineralogica# trabajo especial de grado presentado ante la ilustre universidad central de venezuela
+  </texto>
+</documento>
